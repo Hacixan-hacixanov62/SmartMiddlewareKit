@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>SmartMiddlewareKit</PackageId>
+    <Title>Smart Middleware Kit – Advanced Access &amp; Feature Control for ASP.NET Core</Title>
+    <Version>1.0.0</Version>
+    <Authors>Hacıxan Hacıxanov</Authors>
+    <PackageProjectUrl>https://github.com/Hacixan-hacixanov62/SmartMiddlewareKit</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="8.0.2" />
+  </ItemGroup>
+
+</Project>
