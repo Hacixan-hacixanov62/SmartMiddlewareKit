@@ -7,7 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace SmartMiddlewareKit.Middlewares
-{
+{                                                             //Bu Middleware ile gələn HTTP sorğularıni log faylına qeyd edib saxlaya bilersen.
+                                                              // Neye gore Lazimdir ??
+                                                              // Tehlukesizlik baximindan məlumatları fayl sistemində saxlaya bilersen ve POST sorğularını yadda saxlamaq olur.
     public class RequestReplayMiddleware
     {
         private readonly RequestDelegate _next;

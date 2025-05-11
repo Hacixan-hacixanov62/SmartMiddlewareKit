@@ -9,6 +9,24 @@ using System.Threading.Tasks;
 
 namespace SmartMiddlewareKit.Middlewares
 {
+    // Bu Middlewarenin esas xususiyyeti , esas meqsedi müəyyən istifadəçilərə müəyyən xüsusiyyətləri və ya bağlamaqdır.
+    // Yeni orada program.cs terefinda "IsInRole" hansi rolu yazsaq o rollnan sehifelere giris etmek olur basqa roleynen girsek bize xeta verecek
+    // Harada istifade ede vilerik ?
+    // Admin sehifelerinde
+    // Buradaki numune kimi tetbiq ede bilersiniz.
+    //
+    // Mesel:
+
+    // public IActionResult MyFeaturePage()
+    //{
+    //    if (!FeatureManager.IsFeatureEnabled(User, "BetaCheckout"))
+    //    {
+    //        return Forbid("This feature is disabled.");
+    //}
+
+    //return View();
+    //}
+
     public class FeatureToggleMiddleware
     {
         private readonly RequestDelegate _next;

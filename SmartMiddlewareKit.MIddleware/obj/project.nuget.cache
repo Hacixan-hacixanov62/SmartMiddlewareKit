@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZ/dwaIUhOo=",
+  "success": true,
+  "projectFilePath": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit.MIddleware\\SmartMiddlewareKit.MIddleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hacixanov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

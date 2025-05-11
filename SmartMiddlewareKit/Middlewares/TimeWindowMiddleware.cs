@@ -7,7 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace SmartMiddlewareKit.Middlewares
-{
+{                                           //TimeWindowMiddleware saytının yalnız müəyyən saatlarda aktiv olması üçün istifadə olunur.
+                                            //Yeni sistem 09:00–18:00 arası işləyəcək, digər saatlarda isə istifadəçiyə xidmətin qapalı olduğunu bildirəcək.
+                                            // Bu Middleware vasitesile istifadeci sehifeye yalniz teyin olunmus vaxt erzinde giris ede biler.
     public class TimeWindowMiddleware
     {
         private readonly RequestDelegate _next;

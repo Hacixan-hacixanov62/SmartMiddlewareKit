@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Builder;
+using SmartMiddlewareKit.MIddleware.Extensions.Abstractions;
 using SmartMiddlewareKit.Middlewares;
 
 
@@ -17,4 +18,17 @@ namespace SmartMiddlewareKit.Main
             return app.UseMiddleware<MaintenanceModeMiddleware>(options);
         }
     }
+
+    //public static class MaintenanceModeMiddlewareExtensions
+    //{
+    //    public static MiddlewareBuilder<ContextBase> UseMaintenanceMode(this MiddlewareBuilder<ContextBase> builder, MaintenanceModeOptions options)
+    //    {
+    //        return builder.UseMiddleware<MaintenanceModeMiddleware>(provider =>
+    //        {
+    //            return new MaintenanceModeMiddleware(options);
+    //        });
+    //    }
+    //}
+
+
 }

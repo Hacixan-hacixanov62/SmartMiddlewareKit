@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hacıxan Hacıxanov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51cae0b05e62c85fac72a32777dfa90a014358b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartMiddlewareKit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartMiddlewareKit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

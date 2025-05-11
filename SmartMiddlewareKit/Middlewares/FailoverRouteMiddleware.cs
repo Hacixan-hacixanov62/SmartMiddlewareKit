@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 
 namespace SmartMiddlewareKit.Middlewares
 {
+                                                     // Bu Middleware vasitesille sen "/main-service" ve "/backup-service" bunlari controllerde [Route] kimi yazsan 
+                                                     // Program.cs de bu middlewareni cagirsan proyekti run elesen birinci olaraq o controller gorunecek
+                                                     // Harada istifade ede bilersen ?? 
+                                                     // mikroservis arxitekturasında, bir servis əlçatan deyilsə digərinə keçid Eleye bilersen.
     public class FailoverRouteMiddleware
     {
 

@@ -7,7 +7,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace SmartMiddlewareKit.Middlewares
-{
+{                                                // Bu Middleware mueyyen olkelerden gelen sexslerin vəzifə, təhlükəsizlik və ya hüquqi səbəblərlə bloklanması üçün istifadə olunur.
+                                                 // Burada daxil etdiyim  müəyyən ölkələrə açıqdır
     public class GeoBlockMiddleware
     {
         private readonly RequestDelegate _next;

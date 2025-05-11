@@ -11,7 +11,7 @@ namespace SmartMiddlewareKit.Main
     public class RequestReplayOptions
     {
         public bool EnableReplay { get; set; } = true;  // by default, replay is enabled
-        public string LogDirectory { get; set; } = "/logs/replays";
+        public string LogDirectory { get; set; } = "Logs/Replays";
     }
 
     public static class RequestReplayMiddlewareExtensions

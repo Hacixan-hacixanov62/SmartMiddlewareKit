@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hacixanov\\source\\repos\\SmartMiddlewareKit\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6055C75F-4980-45DC-88D7-1510DFC0BE66}|SmartMiddlewareKit\\SmartMiddlewareKit.csproj|c:\\asp.net task (pb-202)\\smartmiddlewarekit\\smartmiddlewarekit\\middlewares\\maintenancemodemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6055C75F-4980-45DC-88D7-1510DFC0BE66}|SmartMiddlewareKit\\SmartMiddlewareKit.csproj|solutionrelative:smartmiddlewarekit\\middlewares\\maintenancemodemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6055C75F-4980-45DC-88D7-1510DFC0BE66}|SmartMiddlewareKit\\SmartMiddlewareKit.csproj|c:\\asp.net task (pb-202)\\smartmiddlewarekit\\smartmiddlewarekit\\main\\maintenancemodeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6055C75F-4980-45DC-88D7-1510DFC0BE66}|SmartMiddlewareKit\\SmartMiddlewareKit.csproj|solutionrelative:smartmiddlewarekit\\main\\maintenancemodeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF6968-D619-42E8-AD9A-DCB477BC8D9E}|SmartMiddlewareKit.MIddleware\\SmartMiddlewareKit.MIddleware.csproj|c:\\asp.net task (pb-202)\\smartmiddlewarekit\\smartmiddlewarekit.middleware\\extensions\\abstractions\\imiddlewarebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF6968-D619-42E8-AD9A-DCB477BC8D9E}|SmartMiddlewareKit.MIddleware\\SmartMiddlewareKit.MIddleware.csproj|solutionrelative:smartmiddlewarekit.middleware\\extensions\\abstractions\\imiddlewarebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF6968-D619-42E8-AD9A-DCB477BC8D9E}|SmartMiddlewareKit.MIddleware\\SmartMiddlewareKit.MIddleware.csproj|c:\\asp.net task (pb-202)\\smartmiddlewarekit\\smartmiddlewarekit.middleware\\extensions\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF6968-D619-42E8-AD9A-DCB477BC8D9E}|SmartMiddlewareKit.MIddleware\\SmartMiddlewareKit.MIddleware.csproj|solutionrelative:smartmiddlewarekit.middleware\\extensions\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF6968-D619-42E8-AD9A-DCB477BC8D9E}|SmartMiddlewareKit.MIddleware\\SmartMiddlewareKit.MIddleware.csproj|c:\\asp.net task (pb-202)\\smartmiddlewarekit\\smartmiddlewarekit.middleware\\extensions\\abstractions\\imiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF6968-D619-42E8-AD9A-DCB477BC8D9E}|SmartMiddlewareKit.MIddleware\\SmartMiddlewareKit.MIddleware.csproj|solutionrelative:smartmiddlewarekit.middleware\\extensions\\abstractions\\imiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0879F71-B063-4597-AECE-E4CE32093F47}|SmartMiddlewareKit.Middleware.Test\\SmartMiddlewareKit.Middleware.Test.csproj|c:\\asp.net task (pb-202)\\smartmiddlewarekit\\smartmiddlewarekit.middleware.test\\middlewarebuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0879F71-B063-4597-AECE-E4CE32093F47}|SmartMiddlewareKit.Middleware.Test\\SmartMiddlewareKit.Middleware.Test.csproj|solutionrelative:smartmiddlewarekit.middleware.test\\middlewarebuildertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6055C75F-4980-45DC-88D7-1510DFC0BE66}|SmartMiddlewareKit\\SmartMiddlewareKit.csproj|c:\\asp.net task (pb-202)\\smartmiddlewarekit\\smartmiddlewarekit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6055C75F-4980-45DC-88D7-1510DFC0BE66}|SmartMiddlewareKit\\SmartMiddlewareKit.csproj|solutionrelative:smartmiddlewarekit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +38,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit\\Program.cs",
+              "RelativeDocumentMoniker": "SmartMiddlewareKit\\Program.cs",
+              "ToolTip": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit\\Program.cs",
+              "RelativeToolTip": "SmartMiddlewareKit\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAEkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:57:36.821Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMiddlewareBuilder.cs",
+              "DocumentMoniker": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit.MIddleware\\Extensions\\Abstractions\\IMiddlewareBuilder.cs",
+              "RelativeDocumentMoniker": "SmartMiddlewareKit.MIddleware\\Extensions\\Abstractions\\IMiddlewareBuilder.cs",
+              "ToolTip": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit.MIddleware\\Extensions\\Abstractions\\IMiddlewareBuilder.cs",
+              "RelativeToolTip": "SmartMiddlewareKit.MIddleware\\Extensions\\Abstractions\\IMiddlewareBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:32:29.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMiddleware.cs",
+              "DocumentMoniker": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit.MIddleware\\Extensions\\Abstractions\\IMiddleware.cs",
+              "RelativeDocumentMoniker": "SmartMiddlewareKit.MIddleware\\Extensions\\Abstractions\\IMiddleware.cs",
+              "ToolTip": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit.MIddleware\\Extensions\\Abstractions\\IMiddleware.cs",
+              "RelativeToolTip": "SmartMiddlewareKit.MIddleware\\Extensions\\Abstractions\\IMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:28:49.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit.MIddleware\\Extensions\\ContextBase.cs",
+              "RelativeDocumentMoniker": "SmartMiddlewareKit.MIddleware\\Extensions\\ContextBase.cs",
+              "ToolTip": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit.MIddleware\\Extensions\\ContextBase.cs",
+              "RelativeToolTip": "SmartMiddlewareKit.MIddleware\\Extensions\\ContextBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:27:10.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MiddlewareBuilderTest.cs",
+              "DocumentMoniker": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit.Middleware.Test\\MiddlewareBuilderTest.cs",
+              "RelativeDocumentMoniker": "SmartMiddlewareKit.Middleware.Test\\MiddlewareBuilderTest.cs",
+              "ToolTip": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit.Middleware.Test\\MiddlewareBuilderTest.cs",
+              "RelativeToolTip": "SmartMiddlewareKit.Middleware.Test\\MiddlewareBuilderTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:19:43.353Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -22,6 +117,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaintenanceModeMiddleware.cs",
+              "DocumentMoniker": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit\\Middlewares\\MaintenanceModeMiddleware.cs",
+              "RelativeDocumentMoniker": "SmartMiddlewareKit\\Middlewares\\MaintenanceModeMiddleware.cs",
+              "ToolTip": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit\\Middlewares\\MaintenanceModeMiddleware.cs*",
+              "RelativeToolTip": "SmartMiddlewareKit\\Middlewares\\MaintenanceModeMiddleware.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:06:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaintenanceModeOptions.cs",
+              "DocumentMoniker": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit\\Main\\MaintenanceModeOptions.cs",
+              "RelativeDocumentMoniker": "SmartMiddlewareKit\\Main\\MaintenanceModeOptions.cs",
+              "ToolTip": "C:\\Asp.Net Task (PB-202)\\SmartMiddlewareKit\\SmartMiddlewareKit\\Main\\MaintenanceModeOptions.cs",
+              "RelativeToolTip": "SmartMiddlewareKit\\Main\\MaintenanceModeOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:06:40.754Z",
+              "EditorCaption": ""
             }
           ]
         }

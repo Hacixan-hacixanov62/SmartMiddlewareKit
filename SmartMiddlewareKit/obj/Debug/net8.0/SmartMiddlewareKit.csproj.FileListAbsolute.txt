@@ -36,3 +36,9 @@ C:\Users\Hacixanov\source\repos\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\
 C:\Users\Hacixanov\source\repos\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Hacixanov\source\repos\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\net8.0\SmartMid.C9AF4E0D.Up2Date
 C:\Users\Hacixanov\source\repos\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\net8.0\SmartMiddlewareKit.genruntimeconfig.cache
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\net8.0\SmartMiddlewareKit.csproj.AssemblyReference.cache
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\net8.0\SmartMiddlewareKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\net8.0\SmartMiddlewareKit.AssemblyInfoInputs.cache
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\net8.0\SmartMiddlewareKit.AssemblyInfo.cs
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\net8.0\SmartMiddlewareKit.csproj.CoreCompileInputs.cache
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit\obj\Debug\net8.0\SmartMiddlewareKit.sourcelink.json

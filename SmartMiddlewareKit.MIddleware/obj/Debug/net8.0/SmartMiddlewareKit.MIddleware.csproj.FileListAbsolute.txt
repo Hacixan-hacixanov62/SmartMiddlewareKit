@@ -1,0 +1,13 @@
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\bin\Debug\net8.0\SmartMiddlewareKit.MIddleware.deps.json
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\bin\Debug\net8.0\SmartMiddlewareKit.MIddleware.dll
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\bin\Debug\net8.0\SmartMiddlewareKit.MIddleware.pdb
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\SmartMiddlewareKit.MIddleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\SmartMiddlewareKit.MIddleware.AssemblyInfoInputs.cache
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\SmartMiddlewareKit.MIddleware.AssemblyInfo.cs
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\SmartMiddlewareKit.MIddleware.csproj.CoreCompileInputs.cache
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\SmartMiddlewareKit.MIddleware.sourcelink.json
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\SmartMiddlewareKit.MIddleware.dll
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\refint\SmartMiddlewareKit.MIddleware.dll
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\SmartMiddlewareKit.MIddleware.pdb
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\ref\SmartMiddlewareKit.MIddleware.dll
+C:\Asp.Net Task (PB-202)\SmartMiddlewareKit\SmartMiddlewareKit.MIddleware\obj\Debug\net8.0\SmartMiddlewareKit.MIddleware.csproj.AssemblyReference.cache

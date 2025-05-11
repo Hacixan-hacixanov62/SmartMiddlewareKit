@@ -10,8 +10,8 @@ namespace SmartMiddlewareKit.Main
 {
     public class FailoverRouteOptions
     {
-        public string PrimaryPath { get; set; }
-        public string FallbackPath { get; set; }
+        public string PrimaryPath { get; set; } = "/main-service";
+        public string FallbackPath { get; set; } = "/backup-service";
     }
 
     public static class FailoverRouteMiddlewareExtensions
